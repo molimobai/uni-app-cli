@@ -4,13 +4,11 @@ HBuilder X 下创建的项目文件通过 npm 方式进行编译处理(脱离HBu
 ### 安装依赖包
 ```
 npm i
-
 ```
 
 ### development 使用方式
 ```
 npm run dev:%PLATFORM%
-
 ```
 
 ### production 使用方式
@@ -36,7 +34,5 @@ quickapp-webview-huawei|快应用华为
 
 ### 项目编译位置
 ```
-
 根目录下dist内 build(发行包)  dev(测试包)   
-
 ```
