@@ -3,7 +3,7 @@ HBuilder X 下创建的项目文件通过 npm 方式进行编译处理(脱离HBu
 
 ### 安装依赖包
 ```
-npm i
+npm install
 ```
 
 ### development 使用方式
